@@ -1,3 +1,9 @@
+# Challenge:
+#Addition of Coordinates
+#MEDIUM 
+#Problem Description
+#Create a program to find the sum of two coordinates by creating objects.
+
 
 # create the Coordinate class
 class Coordinate:
