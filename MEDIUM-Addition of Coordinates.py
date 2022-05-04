@@ -1,4 +1,4 @@
-# Challenge:
+#Challenge:
 #Addition of Coordinates
 #MEDIUM 
 #Problem Description
